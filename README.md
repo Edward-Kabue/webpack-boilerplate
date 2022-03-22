@@ -18,7 +18,7 @@ Built a webpack boilerplate with custom configurations
 git clone https://github.com/Edward-Kabue/webpack-boilerplate.git```</pre>
 5. Change the directory <pre> ```cd webpack-boilerplate.```</pre>
 6. Install packages <pre> $ npm install </pre>
-7. Right click on the ```index.html``` file and open with liveserver.
+7. Start the server <pre> $ npm start </pre>
 
 
 ## Author
